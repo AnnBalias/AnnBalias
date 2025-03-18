@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @AnnBalias
+# 😊 Hey! Nice to see you.
 
+Welcome to my page!  
+I'm Anna, Fullstack developer from Kyiv, Ukraine.
 
-<!---
-AnnBalias/AnnBalias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Things I code with
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)

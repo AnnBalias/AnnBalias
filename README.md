@@ -9,7 +9,6 @@
   <p>
     <a href="https://annbalias-resume.vercel.app/"><img src="https://img.shields.io/badge/Web_Resume-0ea5e9?style=flat-square&logo=vercel&logoColor=white" alt="Web Resume" /></a>
     <a href="https://docs.google.com/document/d/1-w_S5Af7CelJzpd1kSs0rrxIZZ6xdUHxtsSLWPBMkGc/edit?usp=sharing"><img src="https://img.shields.io/badge/PDF_Resume-EF4444?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF Resume" /></a>
-    <a href="https://github.com/AnnBalias"><img src="https://img.shields.io/badge/GitHub-AnnBalias-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/annbalias"><img src="https://img.shields.io/badge/LinkedIn-annbalias-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://t.me/annbalias"><img src="https://img.shields.io/badge/Telegram-@annbalias-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="mailto:annbalias34@gmail.com"><img src="https://img.shields.io/badge/Email-annbalias34@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>

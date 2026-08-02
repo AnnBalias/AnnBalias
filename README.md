@@ -141,7 +141,6 @@ Holistic product vision · Ownership & responsibility · Team player · Adaptabl
 | 📄 PDF resume | [Google Drive](https://docs.google.com/document/d/1-w_S5Af7CelJzpd1kSs0rrxIZZ6xdUHxtsSLWPBMkGc/edit?usp=sharing) |
 | 💼 LinkedIn   | [linkedin.com/in/annbalias](https://www.linkedin.com/in/annbalias)                                               |
 | ✈️ Telegram   | [@annbalias](https://t.me/annbalias)                                                                             |
-| 🐙 GitHub     | [github.com/AnnBalias](https://github.com/AnnBalias)                                                             |
 | ✉️ Email      | [annbalias34@gmail.com](mailto:annbalias34@gmail.com)                                                            |
 
 <br>
